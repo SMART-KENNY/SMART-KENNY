@@ -2,9 +2,6 @@ Hi 👋 My name is KENNY
 ======================
 ### Data Engineer
 -------------
-<a href="#" style="display: inline-block; background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; font-size: 16px; font-family: Arial, sans-serif;">
-  Beautiful Button
-</a>
 
 I'm a Data Engineer with a big appetite for messy datasets—feed me bytes and watch me turn them into a feast of insights. Warning: I might become too adorable to debug!
 
@@ -13,6 +10,11 @@ I'm a Data Engineer with a big appetite for messy datasets—feed me bytes and w
 *   🧠  I'm learning to Love
 *   🤝  I'm open to collaborating on cloud data processing
 *   ⚡  I can sing
+
+
+------------
+
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 -------------
 
