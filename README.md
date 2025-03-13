@@ -1,7 +1,6 @@
 
 <h1 align="center"> Hi 👋 My name is KENNY </h1>
 
--------------
 ### Data Engineer for SMART Communication
 -------------
 
