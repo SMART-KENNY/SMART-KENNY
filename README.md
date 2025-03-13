@@ -1,8 +1,6 @@
 
 <h1 align="center"> Hi 👋 My name is KENNY </h1>
 
--------------
-
 ![](https://nirzak-streak-stats.vercel.app/?user=smart-kenny&theme=dark&hide_border=false)<br/>
 
 -------------
