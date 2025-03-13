@@ -1,8 +1,6 @@
 
 <h1 align="center"> Hi 👋 My name is KENNY </h1>
 
-![](https://nirzak-streak-stats.vercel.app/?user=smart-kenny&theme=dark&hide_border=false)<br/>
-
 -------------
 ### Data Engineer for SMART Communication
 -------------
@@ -71,3 +69,8 @@ I'm a Data Engineer with a big appetite for messy datasets—feed me bytes and w
     </picture>
   </a>
 </p>
+
+
+------------
+
+![](https://nirzak-streak-stats.vercel.app/?user=smart-kenny&theme=dark&hide_border=false)<br/>
