@@ -1,7 +1,9 @@
 Hi 👋 My name is KENNY
 ======================
-
-Data Engineer | <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b76118woni85pmthrxmnwzvxdyug2ponepgn5jey8w3l3&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Dancing Cat" width="300">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>Data Engineer</div>
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b76118woni85pmthrxmnwzvxdyug2ponepgn5jey8w3l3&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Dancing Cat" width="200">
+</div>
 
 -------------
 
