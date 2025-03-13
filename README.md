@@ -1,20 +1,12 @@
 Hi 👋 My name is KENNY
 ======================
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>Data Engineer</div>
-  <div><img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b76118woni85pmthrxmnwzvxdyug2ponepgn5jey8w3l3&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Dancing Cat" width="200"></div>
+<div>Data Engineer</div>
+
+
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <section style="flex: 1; border: 1px solid black; padding: 10px;">Section 1</section>
+  <section style="flex: 1; border: 1px solid black; padding: 10px;">Section 2</section>
 </div>
-
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <div style="flex-shrink: 0;">Data Engineer</div>
-  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b76118woni85pmthrxmnwzvxdyug2ponepgn5jey8w3l3&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Dancing Cat" width="200">
-</div>
-
-<section style="width: 100%; display: grid; grid-template-rows: 1fr; grid-template-columns: repeat(2, 1fr); gap: 8px;">
-  <div style="flex-shrink: 0;">Data Engineer</div>
-  <div><img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b76118woni85pmthrxmnwzvxdyug2ponepgn5jey8w3l3&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Dancing Cat" width="200"></div>
-</section>
-
 
 -------------
 
