@@ -1,7 +1,8 @@
 Hi 👋 My name is KENNY
 ======================
 
-Data Engineer | ![Alt text](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b76118woni85pmthrxmnwzvxdyug2ponepgn5jey8w3l3&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+Data Engineer | <img src="[https://example.com/dancing-cat.gif](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b76118woni85pmthrxmnwzvxdyug2ponepgn5jey8w3l3&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="Dancing Cat" width="300">
+
 -------------
 
 I'm a Data Engineer with a big appetite for messy datasets—feed me bytes and watch me turn them into a feast of insights. Warning: I might become too adorable to debug!
