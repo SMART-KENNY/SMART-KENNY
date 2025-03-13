@@ -1,9 +1,7 @@
 Hi 👋 My name is KENNY
 ======================
 
-![10](https://github-readme-stats.vercel.app/api?username=kenny&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![20](https://nirzak-streak-stats.vercel.app/?user=kenny&theme=dark&hide_border=false)<br/>
-![10](https://github-readme-stats.vercel.app/api/top-langs/?username=kenny&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=smart-kenny&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 -------------
 ### Data Engineer for SMART Communication
