@@ -1,11 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div style="text-align: right;">
-        <img src="https://github-readme-stats.vercel.app/api?username=smart-kenny&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats for smart-kenny">
-    </div>
-    <div style="text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api?username=smart-kenny&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats for smart-kenny">
-    </div>
-</div>
+![](https://nirzak-streak-stats.vercel.app/?user=smart-kenny&theme=dark&hide_border=false)<br/>
 
 Hi 👋 My name is KENNY
 ======================
