@@ -1,6 +1,6 @@
 Hi 👋 My name is KENNY
 ======================
-### Data Engineer
+### Data Engineer for SMART Communication
 -------------
 
 I'm a Data Engineer with a big appetite for messy datasets—feed me bytes and watch me turn them into a feast of insights. Warning: I might become too adorable to debug!
