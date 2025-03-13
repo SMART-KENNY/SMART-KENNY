@@ -14,7 +14,8 @@ I'm a Data Engineer with a big appetite for messy datasets—feed me bytes and w
 
 ------------
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![phone](https://img.shields.io/badge/Phone%20Number-123--456--7890-blue?style=for-the-badge)
 
 -------------
 
