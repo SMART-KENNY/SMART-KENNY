@@ -1,8 +1,12 @@
+<div style="display: inline-block; width: 50%; text-align: right;">
+    ![](https://github-readme-stats.vercel.app/api?username=smart-kenny&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+</div>
+<div style="display: inline-block; width: 50%; text-align: left;">
+    ![](https://github-readme-stats.vercel.app/api?username=smart-kenny&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+</div>
+
 Hi 👋 My name is KENNY
 ======================
-
-![](https://github-readme-stats.vercel.app/api?username=smart-kenny&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
 -------------
 ### Data Engineer for SMART Communication
 -------------
