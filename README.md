@@ -1,7 +1,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=smart-kenny&theme=dark&hide_border=false)<br/>
 
 Hi 👋 My name is KENNY
-======================
 -------------
 ### Data Engineer for SMART Communication
 -------------
