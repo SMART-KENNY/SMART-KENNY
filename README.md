@@ -14,7 +14,7 @@ I'm a Data Engineer with a big appetite for messy datasets—feed me bytes and w
 
 ------------
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 -------------
 
