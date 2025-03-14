@@ -4,11 +4,11 @@
 ### Data Engineer for SMART Communication
 -------------
 
-I'm a Data Engineer with a big appetite for messy datasets—feed me bytes and watch me turn them into a feast of insights. Warning: I might become too adorable to debug!
+I'm a Data Engineer with a big appetite for messy datasets feed me bytes and watch me turn them into a feast of insights. Warning: I might become too adorable to debug!
 
 *   🌍  I'm based in Philippines
 *   ✉️  You can contact me at [klmembrano@smart.com.ph](mailto:klmembrano@smart.com.ph)
-*   🧠  I'm learning to Love
+*   🧠  I'm learning to be a magician
 *   🤝  I'm open to collaborating on cloud data processing
 *   ⚡  I can sing
 
